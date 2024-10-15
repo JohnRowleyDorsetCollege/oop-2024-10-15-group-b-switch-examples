@@ -2,8 +2,13 @@
 
 using oop_2024_10_15_group_b_switch_examples.models;
 
-Driver.Run();
+DriverInterfaces.Run();
 
-Driver.SwitchStatementDemo();
+DriverInterfaces.SupermanFlies();
 
-Driver.SwitchExpressionDemo();
+DriverInterfaces.BatmanFlies();
+//Driver.Run();
+
+//Driver.SwitchStatementDemo();
+
+//Driver.SwitchExpressionDemo();
